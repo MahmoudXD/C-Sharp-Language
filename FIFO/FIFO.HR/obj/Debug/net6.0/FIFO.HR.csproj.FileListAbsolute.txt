@@ -1,0 +1,12 @@
+C:\Users\IT\source\repos\FIFO\FIFO.HR\bin\Debug\net6.0\FIFO.HR.deps.json
+C:\Users\IT\source\repos\FIFO\FIFO.HR\bin\Debug\net6.0\FIFO.HR.dll
+C:\Users\IT\source\repos\FIFO\FIFO.HR\bin\Debug\net6.0\FIFO.HR.pdb
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.AssemblyInfo.cs
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.dll
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\refint\FIFO.HR.dll
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\FIFO.HR.pdb
+C:\Users\IT\source\repos\FIFO\FIFO.HR\obj\Debug\net6.0\ref\FIFO.HR.dll

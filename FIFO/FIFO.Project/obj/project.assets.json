@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FIFO.Auto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FIFO.Auto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FIFO.Auto.dll": {}
+        }
+      },
+      "FIFO.Console/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FIFO.Console.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FIFO.Console.dll": {}
+        }
+      },
+      "FIFO.HR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FIFO.HR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FIFO.HR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FIFO.Auto/1.0.0": {
+      "type": "project",
+      "path": "../FIFO.Auto/FIFO.Auto.csproj",
+      "msbuildProject": "../FIFO.Auto/FIFO.Auto.csproj"
+    },
+    "FIFO.Console/1.0.0": {
+      "type": "project",
+      "path": "../FIFO.Console/FIFO.Console.csproj",
+      "msbuildProject": "../FIFO.Console/FIFO.Console.csproj"
+    },
+    "FIFO.HR/1.0.0": {
+      "type": "project",
+      "path": "../FIFO.HR/FIFO.HR.csproj",
+      "msbuildProject": "../FIFO.HR/FIFO.HR.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FIFO.Auto >= 1.0.0",
+      "FIFO.Console >= 1.0.0",
+      "FIFO.HR >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IT\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Project\\FIFO.Project.csproj",
+      "projectName": "FIFO.Project",
+      "projectPath": "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Project\\FIFO.Project.csproj",
+      "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Project\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Auto\\FIFO.Auto.csproj": {
+              "projectPath": "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Auto\\FIFO.Auto.csproj"
+            },
+            "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Console\\FIFO.Console.csproj": {
+              "projectPath": "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.Console\\FIFO.Console.csproj"
+            },
+            "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.HR\\FIFO.HR.csproj": {
+              "projectPath": "C:\\Users\\IT\\source\\repos\\FIFO\\FIFO.HR\\FIFO.HR.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
