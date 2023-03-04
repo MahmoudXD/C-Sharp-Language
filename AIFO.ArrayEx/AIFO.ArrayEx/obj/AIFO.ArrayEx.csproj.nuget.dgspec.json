@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mahmoud\\Dot net project\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj": {}
+    "C:\\Users\\IT\\source\\repos\\C-Sharp-Language\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj": {}
   },
   "projects": {
-    "D:\\Mahmoud\\Dot net project\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj": {
+    "C:\\Users\\IT\\source\\repos\\C-Sharp-Language\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mahmoud\\Dot net project\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj",
+        "projectUniqueName": "C:\\Users\\IT\\source\\repos\\C-Sharp-Language\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj",
         "projectName": "AIFO.ArrayEx",
-        "projectPath": "D:\\Mahmoud\\Dot net project\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj",
-        "packagesPath": "C:\\Users\\Mohamoud\\.nuget\\packages\\",
-        "outputPath": "D:\\Mahmoud\\Dot net project\\AIFO.ArrayEx\\AIFO.ArrayEx\\obj\\",
+        "projectPath": "C:\\Users\\IT\\source\\repos\\C-Sharp-Language\\AIFO.ArrayEx\\AIFO.ArrayEx\\AIFO.ArrayEx.csproj",
+        "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IT\\source\\repos\\C-Sharp-Language\\AIFO.ArrayEx\\AIFO.ArrayEx\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mohamoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

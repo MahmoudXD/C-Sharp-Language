@@ -1,0 +1,15 @@
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\bin\Debug\net7.0\AIFO.ArrayEx.exe
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\bin\Debug\net7.0\AIFO.ArrayEx.deps.json
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\bin\Debug\net7.0\AIFO.ArrayEx.runtimeconfig.json
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\bin\Debug\net7.0\AIFO.ArrayEx.dll
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\bin\Debug\net7.0\AIFO.ArrayEx.pdb
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.AssemblyInfo.cs
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.dll
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\refint\AIFO.ArrayEx.dll
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.pdb
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\AIFO.ArrayEx.genruntimeconfig.cache
+C:\Users\IT\source\repos\C-Sharp-Language\AIFO.ArrayEx\AIFO.ArrayEx\obj\Debug\net7.0\ref\AIFO.ArrayEx.dll
