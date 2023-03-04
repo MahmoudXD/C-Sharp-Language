@@ -1,0 +1,15 @@
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\bin\Debug\net7.0\VIFO.Console.exe
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\bin\Debug\net7.0\VIFO.Console.deps.json
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\bin\Debug\net7.0\VIFO.Console.runtimeconfig.json
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\bin\Debug\net7.0\VIFO.Console.dll
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\bin\Debug\net7.0\VIFO.Console.pdb
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.csproj.AssemblyReference.cache
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.AssemblyInfoInputs.cache
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.AssemblyInfo.cs
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.csproj.CoreCompileInputs.cache
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.dll
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\refint\VIFO.Console.dll
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.pdb
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\VIFO.Console.genruntimeconfig.cache
+D:\Mahmoud\Dot net project\VIFO.Console\VIFO.Console\obj\Debug\net7.0\ref\VIFO.Console.dll

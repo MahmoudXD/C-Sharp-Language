@@ -1,0 +1,15 @@
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\bin\Debug\net7.0\AIFO.Console.exe
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\bin\Debug\net7.0\AIFO.Console.deps.json
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\bin\Debug\net7.0\AIFO.Console.runtimeconfig.json
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\bin\Debug\net7.0\AIFO.Console.dll
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\bin\Debug\net7.0\AIFO.Console.pdb
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.csproj.AssemblyReference.cache
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.AssemblyInfoInputs.cache
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.AssemblyInfo.cs
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.csproj.CoreCompileInputs.cache
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.dll
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\refint\AIFO.Console.dll
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.pdb
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\AIFO.Console.genruntimeconfig.cache
+D:\Mahmoud\Dot net project\AIFO.Console\AIFO.Console\obj\Debug\net7.0\ref\AIFO.Console.dll
